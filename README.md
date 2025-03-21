@@ -10,7 +10,7 @@ This script fetches and deletes all your ChatGPT conversations.
    const authToken = "your_token_here";
    ```
    -> Just replace the part inside the quotation marks.
-3. Open the console -> [How to open console](https://youtu.be/y2yanWTNxGk?si=Kzqx-giRFo9qoLUY)
+3. Open the console -> [How to open console](https://youtu.be/vb7aFN8KJ2Q?si=I8KGiuIh_cbC0IkP)
 4. Paste the code in bulkdelete.js in the console and press enter
 5. Wait a bit for it to fully delete. If you've done everything right, it will output the message "All chats deleted".
 
